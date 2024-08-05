@@ -1,0 +1,16 @@
+{
+    "name": "@geekgeekgo-io/geek_node_util",
+    "version": "1.0.0",
+    "description": "A reusable geekgeekgo utility for Node.js microservices",
+    "main": "src/loggerUtil.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["logging", "winston", "microservices"],
+    "author": "GeekGeekGo",
+    "license": "MIT",
+    "dependencies": {
+      "winston": "^3.8.2"
+    }
+  }
+  
